@@ -1,0 +1,7 @@
+V0.9
+========
+Changes:
+1.	Common_Functions.vbs
+2.	Filters.vbs
+3.	TestSuite.xls
+4.	ObjectRepository.xls
